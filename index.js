@@ -227,11 +227,17 @@ const penyocokan_first = () => {
       preload();
     }
   });
-
+  if (data_lost.length===0) {
+   
+    validations("kami tidak menemukan penyakit dengan gejala yang cocok tambahkan beberapa gejala, mohon maaf lahir batin🤡", true);
+  }
   return penyakitTerbanyak;
 };
 
 const preload = () => {
+  // if (data_lost) {
+    
+  
   data_lost.map((res) => {
     let kecockan = gejala[0].filter((kode) => res.Gejala.includes(kode.kode));
     // let lost=pilihan_gejala.filter
@@ -259,6 +265,8 @@ const preload = () => {
     });
     modal_penyocokan(true);
   });
+// }else{
+// }
 };
 
 function penyocokan_kedua() {
@@ -296,6 +304,8 @@ function penyocokan_kedua() {
           soulusi_res.push(res.Solusi);
         }
       });
+    modal_penyocokan(false);
+    scroll_down()
       validations("Kami telah menemukan penyakit scroll kebawah ", true);
       // results(penyakit.Gejala.join())
       results(gejala_res, tingkat_res, penyakit_res, soulusi_res);
@@ -322,6 +332,9 @@ function penyocokan_kedua() {
           soulusi_res.push(res.Solusi);
         }
       });
+      
+    modal_penyocokan(false);
+    scroll_down()
       validations("Kami telah menemukan penyakit scroll kebawah ", true);
       // results(penyakit.Gejala.join())
       results(gejala_res, tingkat_res, penyakit_res, soulusi_res);
@@ -349,6 +362,9 @@ function penyocokan_kedua() {
           soulusi_res.push(res.Solusi);
         }
       });
+      
+    modal_penyocokan(false);
+    scroll_down()
       validations("Kami telah menemukan penyakit scroll kebawah ", true);
       // results(penyakit.Gejala.join())
       results(gejala_res, tingkat_res, penyakit_res, soulusi_res);
@@ -358,6 +374,9 @@ function penyocokan_kedua() {
     //   validations("kami tidak menemukan penyakit dengan gejala yang cocok, mohon maaf lahir batin🤡", true);
     // }
   });
+
+  if(akurat==true)
+  validations("kami tidak menemukan penyakit dengan gejala yang cocok tambahkan beberapa gejala, mohon maaf lahir batin🤡", true);
 
 }
 
@@ -386,6 +405,14 @@ function results(list_gejala, list_tingkat, list_penyakit, list_solusi) {
     solusi_result.appendChild(newEl);
     console.log(res);
   });
+}
+
+
+function scroll_down(params) {
+  const element = document.getElementsByTagName("body");
+// Lakukan scroll ke bawah pada elemen tersebut
+element.scrollTop = element.scrollHeight;
+            
 }
 
 button_submit.addEventListener("click", () => {
