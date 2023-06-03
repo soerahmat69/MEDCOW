@@ -1,0 +1,218 @@
+[
+  {
+    "penyakit": [
+      {
+        "kode_penyakit": "P01",
+        "nama_penyakit": "BRUCELLOSIS (Kluron atau Bang)",
+        "Gejala": [
+          "G05",
+          "G07",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14",
+          "G37"
+        ]
+      },
+      {
+        "kode_penyakit": "P02",
+        "nama_penyakit": "ANTHRAK (Radang Limpa)",
+        "Gejala": [
+          "G01",
+          "G03",
+          "G04",
+          "G07",
+          "G15",
+          "G16",
+          "G17",
+          "G18",
+          "G19",
+          "G20",
+          "G21",
+          "G22"
+        ]
+      },
+      {
+        "kode_penyakit": "P03",
+        "nama_penyakit": "MASTITIS (Radang Ambing)",
+        "Gejala": [
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09"
+        ]
+      },
+      {
+        "kode_penyakit": "P04",
+        "nama_penyakit": "SEPTICEMIA EPIZOOTICA(Ngorok)",
+        "Gejala": [
+          "G01",
+          "G03",
+          "G23",
+          "G24",
+          "G25",
+          "G26",
+          "G27",
+          "G36",
+          "G37",
+          "G38",
+          "G39"
+        ]
+      },
+      {
+        "kode_penyakit": "P05",
+        "nama_penyakit": "PINK EYE (Penyakit Mata)",
+        "Gejala": [
+          "G23",
+          "G24",
+          "G25",
+          "G28",
+          "G29",
+          "G30",
+          "G31",
+          "G32",
+          "G33"
+        ]
+      },
+      {
+        "kode_penyakit": "P06",
+        "nama_penyakit": "HELMINTHASIS (Cacingan)",
+        "Gejala": [
+          "G05",
+          "G34",
+          "G35"
+        ]
+      },
+      {
+        "kode_penyakit": "P07",
+        "nama_penyakit": "Penyakit Antrak",
+        "Gejala": [
+          "G01",
+          "G02",
+          "G03",
+          "G04"
+        ]
+      },
+      {
+        "kode_penyakit": "P08",
+        "nama_penyakit": "Penyakit mulut dan kuku (PMK)",
+        "Gejala": [
+          "G01",
+          "G05",
+          "G40",
+          "G41",
+          "G42",
+          "G43"
+        ]
+      },
+      {
+        "kode_penyakit": "P09",
+        "nama_penyakit": "Kembung",
+        "Gejala": [
+          "G04",
+          "G36",
+          "G44"
+        ]
+      },
+      {
+        "kode_penyakit": "P10",
+        "nama_penyakit": "Surra",
+        "Gejala": [
+          "G25",
+          "G42",
+          "G45"
+        ]
+      },
+      {
+        "kode_penyakit": "P11",
+        "nama_penyakit": "Kudis",
+        "Gejala": [
+          "G04",
+          "G46",
+          "G47",
+          "G48"
+        ]
+      },
+      {
+        "kode_penyakit": "P12",
+        "nama_penyakit": "Ingusan (malignant catarrhal fever)",
+        "Gejala": [
+          "G01",
+          "G31",
+          "G49"
+        ]
+      },
+      {
+        "kode_penyakit": "P13",
+        "nama_penyakit": "Bloat",
+        "Gejala": [
+          "G04",
+          "G50",
+          "G51"
+        ]
+      },
+      {
+        "kode_penyakit": "P14",
+        "nama_penyakit": "IBR (Infectious Bovine Rhinotracheitis )",
+        "Gejala": [
+          "G01",
+          "G39",
+          "G52"
+        ]
+      },
+      {
+        "kode_penyakit": "P15",
+        "nama_penyakit": "BEF (Bovine epizootic fever)",
+        "Gejala": [
+          "G01",
+          "G36",
+          "G37",
+          "G41"
+        ]
+      },
+      {
+        "kode_penyakit": "P16",
+        "nama_penyakit": "Scabies",
+        "Gejala": [
+          "G01",
+          "G05",
+          "G40",
+          "G42",
+          "G47"
+        ]
+      },
+      {
+        "kode_penyakit": "P17",
+        "nama_penyakit": "Cacingan",
+        "Gejala": [
+          "G05",
+          "G08",
+          "G24",
+          "G53"
+        ]
+      },
+      {
+        "kode_penyakit": "P18",
+        "nama_penyakit": "Diare",
+        "Gejala": [
+          "G36",
+          "G37",
+          "G54"
+        ]
+      },
+      {
+        "kode_penyakit": "P19",
+        "nama_penyakit": "Lumpy Skin Disease (LSD)",
+        "Gejala": [
+          "G01",
+          "G05",
+          "G40",
+          "G41",
+          "G55"
+        ]
+      }
+    ]
+  }
+]

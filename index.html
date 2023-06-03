@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .shadoweria {
+        box-shadow: 8px 8px 1px black;
+        border: 1px solid;
+      }
+    </style>
+  </head>
+
+  <body>
+    <nav
+      class="flex justify-between h-[60px] px-[30px] items-center ring-1 ring-black"
+    >
+      <div class="font-extrabold text-[30px]">MEDcow</div>
+      <ul class="flex gap-7">
+        <li class="font-semibold">api</li>
+        <li class="font-semibold">about</li>
+      </ul>
+    </nav>
+
+    <!-- <modal class="w-screen  h-screen absolute group opacity-10   flex justify-center bg-black-700  items-center">
+    <div class="">
+       <div></div>
+     
+    </div>
+</modal> -->
+<modal id="validation"
+class="hidden fixed inset-0 flex justify-center items-center bg-black bg-opacity-70"
+>
+<div
+  class="bg-white rounded-md ring-1 ring-black px-3 py-3 md:mx-[260px] sm:mx-[100px] mx-[60px] w-full h-min-max"
+>
+  <div class="relative">
+    <button id="close_validation"
+      class="absolute ring-1 ring-black rounded-full w-[25px] bg-white -mt-[26px] text-center -right-[17px]"
+    >
+      X
+    </button>
+  </div>
+  <h1 id="warn_validation" class="font-semibold py-7 px-6"></h1>
+  
+</div>
+</modal>
+
+    <modal id="penyocokan_kedua"
+      class="hidden fixed inset-0 flex justify-center items-center bg-black bg-opacity-70"
+    >
+      <div
+        class="bg-white rounded-md ring-1 ring-black px-3 py-3 md:mx-[260px] sm:mx-[100px] mx-[60px] w-full h-min-max"
+      >
+        <div class="relative">
+          <button id="close_penyocokan_kedua"
+            class="absolute ring-1 ring-black rounded-full w-[25px] bg-white -mt-[26px] text-center -right-[17px]"
+          >
+            X
+          </button>
+        </div>
+        <h1 class="font-extrabold">Gejala yang cocok :</h1>
+        <div class="overflow-hidden">
+        <div id="load_mencocokan" class="flex mx-7 hover:overflow-y-scroll py-7 px-7 h-[400px] flex-wrap my-3 gap-3">
+          
+        </div></div>
+        <div class="flex justify-center">
+            <button
+          class="sm:w-[400px] w-[300px] my-3 rounded-md px-3 py-[4px] shadoweria"
+          id="penyocokan"
+        >
+          submit
+        </button>
+        </div>
+        
+      </div>
+    </modal>
+
+    <main class="md:px-[80px] sm:px-[60px] px-[30px] lg:px-[300px]">
+      <div
+        class="shadoweria h-[200px] px-7 rounded-md py-3 rin my-7 w-full flex items-center"
+      >
+        <div class="">
+          <p class="font-semibold sm:text-[17px] text-[14px]">
+            ternak sakit mulu ga sembuh sembuh mari ke...
+          </p>
+          <h1
+            id="text-int"
+            class="font-extrabold text-[40px] sm:-mt-[20px] -mt-[15px] sm:text-[60px]"
+          >
+            MEDcow.
+          </h1>
+        </div>
+
+        <figure class=""></figure>
+      </div>
+      <div class="flex rounded-md shadoweria flex-col px-[50px] py-[50px]">
+        <h1 class="font-semibold my-3">
+          Tuliskan gejala pada sapi anda,gunakan sebanyak banyaknya data yang
+          tersedia di bawah .
+        </h1>
+        <div class="w-full flex flex-col gap-4 overflow-hidden">
+          <input
+            class="shadoweria justify-end mx-3 rounded-md py-2 px-7"
+            type="search"
+            placeholder="cari keluhan mu di sini"
+            name=""
+            id="searchInput"
+          />
+          <h1 class="font-extrabold">Gejala yang dipilih :</h1>
+          <div
+            id="load_pilihan"
+            class="flex px-3 gap-2 bg-slate-100 rounded-md flex-row py-3"
+          ></div>
+
+          <h1 class="font-extrabold">Gejala yang tersedia :</h1>
+          <div
+            id="load_gejala"
+            class="px-3 bg-slate-100 rounded-md py-7 flex flex-wrap w-min-max gap-4"
+          ></div>
+        </div>
+        <div class="w-min-max flex justify-center">
+          <button
+            class="sm:w-[400px] w-[300px] my-3 rounded-md px-3 py-[4px] shadoweria"
+            id="done"
+          >
+            submit
+          </button>
+        </div>
+      </div>
+      <div class="flex my-7 shadoweria rounded-md flex-col px-[50px] py-[50px]">
+        <h1 class="font-semibold">Hasil gejala yang di dapatkan :</h1>
+        <ul class="flex flex-col gap-2 my-3">
+          <li class="flex flex-col">
+            <span class="font-extrabold">Gejala :</span
+            ><span id="gejala_result"
+              class="bg-slate-200 w-min-max py-4 font-semibold rounded-md px-3 h-min-max"
+              ></span
+            >
+          </li>
+          <li class="flex flex-col">
+            <span class="font-extrabold">Tingkat :</span
+            ><span id="tingkat_result"
+              class="bg-slate-200 w-min-max py-4 font-semibold rounded-md px-3 h-min-max"
+            >
+              </span
+            >
+          </li>
+
+          <li class="flex flex-col">
+            <span class="font-extrabold">Penyakit :</span
+            ><span id="penyakit_result"
+              class="bg-slate-200 w-min-max py-4 font-semibold rounded-md px-3 h-min-max"
+            >
+              </span
+            >
+          </li>
+          <li class="flex flex-col">
+            <span class="font-extrabold">Solusi :</span>
+            <ul id="solusi_result"
+              class="bg-slate-200 px-7 w-min-max py-4 font-semibold rounded-md px-3 h-min-max"
+            >
+    
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </main>
+    <script src="./index.js"></script>
+  </body>
+</html>

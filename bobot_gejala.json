@@ -1,0 +1,18 @@
+[
+  {
+    "level_gejala": [
+      {
+        "Tingkat_Gejala": "Gejala Tinggi",
+        "Bobot": 5
+      },
+      {
+        "Tingkat_Gejala": "Gejala Sedang",
+        "Bobot": 3
+      },
+      {
+        "Tingkat_Gejala": "Gejala Rendah",
+        "Bobot": 1
+      }
+    ]
+  }
+]

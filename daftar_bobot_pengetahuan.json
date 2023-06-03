@@ -1,0 +1,281 @@
+[
+  {
+    "daftar_bobot_pengetahuan_pakar": [
+      {
+        "Kode_Gejala": "G01",
+        "Nama_Gejala": "Demam tinggi",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G02",
+        "Nama_Gejala": "Badan lemah",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G03",
+        "Nama_Gejala": "Gemetar",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G04",
+        "Nama_Gejala": "Gangguan Pernafasan",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G05",
+        "Nama_Gejala": "Nafsu makan berkurang",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G06",
+        "Nama_Gejala": "Radang pada saluran air susu",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G07",
+        "Nama_Gejala": "Air susu keluar tidak normal",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G08",
+        "Nama_Gejala": "Kelenjar air susu merah dan bila diraba terasa panas",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G09",
+        "Nama_Gejala": "Bila diperah keluar air susu menggumpal",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G10",
+        "Nama_Gejala": "Pembengkakan pada persendian (Hygroma)",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G11",
+        "Nama_Gejala": "Dapat mengalami keguguran/abortus diatas umur 4 bulan",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G12",
+        "Nama_Gejala": "Pada pejantan terjadi Orchitis dan kemajiran",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G13",
+        "Nama_Gejala": "Tidak ada tanda hewan terserang bakteria Brucella spp",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G14",
+        "Nama_Gejala": "Keluar leleran/mukus dari vagina",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G15",
+        "Nama_Gejala": "Gemetar kemudian ternak rebah",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G16",
+        "Nama_Gejala": "Kejang-kejang",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G17",
+        "Nama_Gejala": "Gelisah",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G18",
+        "Nama_Gejala": "Depresi",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G19",
+        "Nama_Gejala": "Jantung terlihat berpacu dengan cepat",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G20",
+        "Nama_Gejala": "Lemah",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G21",
+        "Nama_Gejala": "Terjadi pembengkakan pada tenggorok dan lidah",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G22",
+        "Nama_Gejala": "Susu yang dihasilkan berwarna sangat kuning atau kemerahan",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G23",
+        "Nama_Gejala": "Masa tunas SE adalah sampai 1-2 hari",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G24",
+        "Nama_Gejala": "Mata sayu dan berair",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G25",
+        "Nama_Gejala": "Selaput lendir mata hiperemik",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G26",
+        "Nama_Gejala": "Napsu makan, memamah biak, gerak rumen dan usus menurun sampai hilang, disertai kontipasi",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G27",
+        "Nama_Gejala": "Gangguan pencernaan berupa kolik, peristaltik usus naik dengan tinja agak cair dan kadang-kadang disertai titik darah.",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G28",
+        "Nama_Gejala": "Mata berair, kemerahan pada bagian mata yang putih dan kelopaknya",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G29",
+        "Nama_Gejala": "Bengkak pada kelopak matanya",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G30",
+        "Nama_Gejala": "Menjulingkan mata untuk menghindari sinar matahari",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G31",
+        "Nama_Gejala": "Selaput bening mata/kornea menjadi keruh",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G32",
+        "Nama_Gejala": "Pembuluh darah tampak menyilanginya",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G33",
+        "Nama_Gejala": "Terjadi borok atau lubang pada selaput bening mata",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G34",
+        "Nama_Gejala": "Diare profus (terus-menerus)",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G35",
+        "Nama_Gejala": "Faeces lembek sampai encer, berlendir dan disertai keluarnya segmen-segmen cacing dari lubang anus",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G36",
+        "Nama_Gejala": "Lemas",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G37",
+        "Nama_Gejala": "Lesu",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G38",
+        "Nama_Gejala": "Gangguan respirasi dan terdengar ngorok",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G39",
+        "Nama_Gejala": "Pernapasan cepat",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G40",
+        "Nama_Gejala": "Rongga mulut, lidah, dan telapak kaki atau tracak sapi melepuh",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G41",
+        "Nama_Gejala": "Terdapat tonjolan bulat berisi cairan yang bening pada bagian tubuh",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G42",
+        "Nama_Gejala": "Jalan sapi agak pincang atau bahkan tidak bisa jalan sama sekali karena kakinya melepuh",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G43",
+        "Nama_Gejala": "Air liur keluar secara berlebihan",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G44",
+        "Nama_Gejala": "Perut bagian kiri membesar",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G45",
+        "Nama_Gejala": "Fisik ternak kurus namun kuat makan dan minum sering menggigit-gigit bagian tubuhnya",
+        "Bobot": 2
+      },
+      {
+        "Kode_Gejala": "G46",
+        "Nama_Gejala": "sering menggigit-gigit bagian tubuhnya",
+        "Bobot": 5
+      },
+      {
+        "Kode_Gejala": "G47",
+        "Nama_Gejala": "Bulu rontok nanah mulai muncul pada bagian tubuh",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G48",
+        "Nama_Gejala": "nanah mulai muncul pada bagian tubuh",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G49",
+        "Nama_Gejala": "Gejala syaraf",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G50",
+        "Nama_Gejala": "ternak nampak resah",
+        "Bobot": 1
+      },
+      {
+        "Kode_Gejala": "G51",
+        "Nama_Gejala": "perut ditepuk-tepuk (perkusi) mirip suara drum Gangguan reproduksi",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G52",
+        "Nama_Gejala": "Gangguan reproduksi",
+        "Bobot": 2
+      },
+      {
+        "Kode_Gejala": "G53",
+        "Nama_Gejala": "Bulu kusam",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G54",
+        "Nama_Gejala": "Feses atau lembek sampai cair timbulnya benjolan-benjolan pada kulit dengan batas yang jelas",
+        "Bobot": 3
+      },
+      {
+        "Kode_Gejala": "G55",
+        "Nama_Gejala": "Timbulnya benjolan-benjolan pada kulit dengan batas yang jelas",
+        "Bobot": 5
+      }
+    ]
+  }
+]

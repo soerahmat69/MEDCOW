@@ -1,0 +1,226 @@
+[
+  {
+    "gejala": [
+      {
+        "kode": "G01",
+        "gejala": "Demam tinggi"
+      },
+      {
+        "kode": "G02",
+        "gejala": "Badan lemah"
+      },
+      {
+        "kode": "G03",
+        "gejala": "Gemetar"
+      },
+      {
+        "kode": "G04",
+        "gejala": "Gangguan pernafasan"
+      },
+      {
+        "kode": "G05",
+        "gejala": "Nafsu makan berkurang"
+      },
+      {
+        "kode": "G06",
+        "gejala": "Radang pada saluran air susu"
+      },
+      {
+        "kode": "G07",
+        "gejala": "Air susu keluar tidak normal"
+      },
+      {
+        "kode": "G08",
+        "gejala": "Kelenjar air susu merah dan bila diraba terasa panas"
+      },
+      {
+        "kode": "G09",
+        "gejala": "Bila diperah keluar air susu menggumpal"
+      },
+      {
+        "kode": "G10",
+        "gejala": "Pembengkakan pada persendian (hygroma)"
+      },
+      {
+        "kode": "G11",
+        "gejala": "Dapat mengalami keguguran/abortus diatas umur 4 bulan"
+      },
+      {
+        "kode": "G12",
+        "gejala": "Pada pejantan terjadi orchitis dan kemajiran"
+      },
+      {
+        "kode": "G13",
+        "gejala": "Tidak ada tanda hewan terserang bakteria brucella spp"
+      },
+      {
+        "kode": "G14",
+        "gejala": "Keluar leleran/mukus dari kelamin"
+      },
+      {
+        "kode": "G15",
+        "gejala": "Gemetar kemudian ternak rebah"
+      },
+      {
+        "kode": "G16",
+        "gejala": "Kejang-kejang"
+      },
+      {
+        "kode": "G17",
+        "gejala": "Gelisah"
+      },
+      {
+        "kode": "G18",
+        "gejala": "Depresi"
+      },
+      {
+        "kode": "G19",
+        "gejala": "Jantung terlihat berpacu dengan cepat"
+      },
+      {
+        "kode": "G20",
+        "gejala": "Lemah"
+      },
+      {
+        "kode": "G21",
+        "gejala": "Terjadi pembengkakan pada tenggorok dan lidah"
+      },
+      {
+        "kode": "G22",
+        "gejala": "Susu yang dihasilkan berwarna sangat kuning atau kemerahan"
+      },
+      {
+        "kode": "G23",
+        "gejala": "Masa tunas se adalah sampai 1-2 hari"
+      },
+      {
+        "kode": "G24",
+        "gejala": "Mata sayu dan berair"
+      },
+      {
+        "kode": "G25",
+        "gejala": "Selaput lendir mata hiperemik"
+      },
+      {
+        "kode": "G26",
+        "gejala": "Napsu makan, memamah biak, gerak rumen dan usus menurun sampai hilang, disertai kontipasi"
+      },
+      {
+        "kode": "G27",
+        "gejala": "Gangguan pencernaan berupa kolik, peristaltik usus naik dengan tinja agak cair dan kadang-kadang disertai titik darah."
+      },
+      {
+        "kode": "G28",
+        "gejala": "Mata berair, kemerahan pada bagian mata yang putih dan kelopaknya"
+      },
+      {
+        "kode": "G29",
+        "gejala": "Bengkak pada kelopak matanya"
+      },
+      {
+        "kode": "G30",
+        "gejala": "Menjulingkan mata untuk menghindari sinar matahari"
+      },
+      {
+        "kode": "G31",
+        "gejala": "Selaput bening mata/kornea menjadi keruh"
+      },
+      {
+        "kode": "G32",
+        "gejala": "Pembuluh darah tampak menyilanginya"
+      },
+      {
+        "kode": "G33",
+        "gejala": "Terjadi borok atau lubang pada selaput bening mata"
+      },
+      {
+        "kode": "G34",
+        "gejala": "Diare profus (terus-menerus)"
+      },
+      {
+        "kode": "G35",
+        "gejala": "Faeces lembek sampai encer, berlendir dan disertai keluarnya segmen-segmen cacing dari lubang anus"
+      },
+      {
+        "kode": "G36",
+        "gejala": "Lemas"
+      },
+      {
+        "kode": "G37",
+        "gejala": "Lesu"
+      },
+      {
+        "kode": "G38",
+        "gejala": "Gangguan respirasi dan terdengar ngorok"
+      },
+      {
+        "kode": "G39",
+        "gejala": "Pernapasan cepat"
+      },
+      {
+        "kode": "G40",
+        "gejala": "Rongga mulut, lidah, dan telapak kaki atau tracak sapi melepuh"
+      },
+      {
+        "kode": "G41",
+        "gejala": "Terdapat tonjolan bulat berisi cairan yang bening pada bagian tubuh tersebut"
+      },
+      {
+        "kode": "G42",
+        "gejala": "Jalan sapi agak pincang atau bahkan tidak bisa jalan sama sekali karena kakinya melepuh"
+      },
+      {
+        "kode": "G43",
+        "gejala": "Air liur keluar secara berlebihan"
+      },
+      {
+        "kode": "G44",
+        "gejala": "Perut bagian kiri membesar"
+      },
+      {
+        "kode": "G45",
+        "gejala": "Fisik ternak kurus namun kuat makan dan minum sering menggigit-gigit bagian tubuhnya"
+      },
+      {
+        "kode": "G46",
+        "gejala": "Sering menggigit-gigit bagian tubuhnya"
+      },
+      {
+        "kode": "G47",
+        "gejala": "Bulu rontok nanah mulai muncul pada bagian tubuh"
+      },
+      {
+        "kode": "G48",
+        "gejala": "Nanah mulai muncul pada bagian tubuh"
+      },
+      {
+        "kode": "G49",
+        "gejala": "gejala syaraf"
+      },
+      {
+        "kode": "G50",
+        "gejala": "Ternak nampak resah"
+      },
+      {
+        "kode": "G51",
+        "gejala": "Perut ditepuk-tepuk (perkusi) mirip suara drum gangguan reproduksi"
+      },
+      {
+        "kode": "G52",
+        "gejala": "Gangguan reproduksi"
+      },
+      {
+        "kode": "G53",
+        "gejala": "Bulu kusam"
+      },
+      {
+        "kode": "G54",
+        "gejala": "Feses atau lembek sampai cair timbulnya benjolan-benjolan pada kulit dengan batas yang jelas"
+      },
+      {
+        "kode": "G55",
+        "gejala": "Timbulnya benjolan-benjolan pada kulit dengan batas yang jelas"
+      }
+    ]
+  }
+]

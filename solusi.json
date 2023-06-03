@@ -1,0 +1,181 @@
+	[
+		{
+			"solusi": [
+				{
+					"Kode_Penyakit": "P01",
+					"Nama_Penyakit": "BRUCELLOSIS (Kluron atau Bang)",
+					"Solusi": [
+						"Sisa-sisa abortusan yang bersifat infeksius dihapus hamakan. Fetus dan plasenta harus dibakar dan vagina apabila mengeluarkan cairan harus diirigasi selama 1 minggu.",
+						"Melakukan didesinfeksi dengan desinfektan menggunakan bahan berikut : phenol, kresol, amonium kwarterner, biocid, dan lisol.",
+						"Hindarkan perkawinan antara pejantan dan betina yang mengalami kluron. Apabila seekor sapi pejantan mengawini ternak betina terinfeksi, maka penis dan preputium dicuci dengan cairan pencuci hama.",
+						"Anak-anak sapi yang lahir dari induk terinfeksi sebaiknya dieri susu dari induk lain.",
+						"Kandang-kandang sapi terinfeksi dan peralatannya harus dicuci an dihapus hamakan serta sapi pengganti jangan segera dimasukkan."
+					]
+				},
+				{
+					"Kode_Penyakit": "P02",
+					"Nama_Penyakit": "ANTHRAK (Radang Limpa)",
+					"Solusi": [
+						"Menggunakan kombinasi antara antiserum dan antibiotika. Antibiotika yang digunakan yaitu : Procain Penisilin G, Streptomisin atau kombinasi antara Penisilin dan Streptomisin, injeksi secara intramuskuler.",
+						"Pemusnahan spora B. anthracis dapat dicapai dengan uap basah bersuhu 90°C selama 45 menit, air mendidih atau uap basah bersuhu 100°C selama 10 menit, dan panas kering pada suhu 120°C selama 1 jam."
+					]
+				},
+				{
+					"Kode_Penyakit": "P03",
+					"Nama_Penyakit": "MASTITIS (Radang Ambing)",
+					"Solusi": [
+						"Pemberian antibiotik menggunakan jenis Lincomycin, Erytromycin dan Chloramphenicol dan golongan penicillin yang peka dengan dosis yang dianjurkan.Disinfeksi putting dengan alkohol dan infusi antibiotik secara intra mamaria",
+						"Disinfeksi puting dengan alkohol dan infusi antibiotik secara intra mamaria.",
+						"Injeksi kombinasi penicillin, dihydrostreptomycin, dexamethasone dan antihistamin dianjurkan juga untuk menekan pertumbuhan bakteri penyebab mastitis.",
+						"Injeksi dengan dedexamethasone dan antihistamin akan menurunkan peradangan.",
+						"Mastitis yang disebabkan oleh Streptococcus sp masih bisa diatasi dengan penicillin, karena streptococcus sp masih peka terhadap penicillin."
+					]
+				},
+				{
+					"Kode_Penyakit": "P04",
+					"Nama_Penyakit": "SEPTICEMIA EPIZOOTICA (Ngorok)",
+					"Solusi": [
+						"Pemberian antibiotik menggunakan jenis Lincomycin, Erytromycin, dan Chloramphenicol serta golongan penicillin yang peka dengan dosis yang dianjurkan",
+						"Disinfeksi puting dengan alkohol dan infusi antibiotik secara intra mamaria",
+						"Injeksi kombinasi penicillin, dihydrostreptomycin, dexamethasone, dan antihistamin untuk menekan pertumbuhan bakteri penyebab mastitis",
+						"Injeksi dengan dedexamethasone dan antihistamin untuk menurunkan peradangan",
+						"Pemberian vaksinasi antise dan pemberian antibiotika atau sulfa pada sapi ternakan"
+					]
+				},
+				{
+					"Kode_Penyakit": "P05",
+					"Nama_Penyakit": "PINK EYE (Penyakit Mata)",
+					"Solusi": [
+						"Pemberian ransum/makanan yang berkualitas dan cukup jumlahnya",
+						"Menghindari kepadatan dalam kandang",
+						"Memisahkan antara ternak muda dan dewasa",
+						"Memperhatikan konstruksi dan sanitasi (kebersihan lingkungan)",
+						"Menghindari tempat-tempat yang becek",
+						"Menghindari pengembalaan yang terlalu pagi",
+						"Melakukan pemeriksaan kesehatan dan pengobatan secara teratur"
+					]
+				},
+				{
+					"Kode_Penyakit": "P06",
+					"Nama_Penyakit": "HELMINTHIASIS (Cacingan)",
+					"Solusi": [
+						"Pengobatan yang bisa diberikan berupa kelompok benzilmidazole, antara lain albendazole dengan dosis 5-10 mg/kg berat badan, mebendazole dengan dosis 13,5 mg/kg berat badan, dan thiabendazole dengan dosis 44-46 mg/kg berat badan",
+						"Albendazole dilarang dipakai pada 1/3 kebuntingan awal. Mebendazole dan thiabendazole aman untuk ternak bunting, tetapi thiabendazole sering menyebabkan resistensi"
+					]
+				},
+				{
+					"Kode_Penyakit": "P07",
+					"Nama_Penyakit": "Penyakit Kontrak",
+					"Solusi": [
+						"Ternak divaksinasi dengan vaksin spora dengan dosis 1 cc. Vaksinasi ini dilakukan 6 bulan sekali atau menggunakan serum antiantraks dengan dosis 50-100 cc per ekor",
+						"Jika sapi sudah terserang, sapi disuntik dengan antibiotika procain penicillin. Dosis yang digunakan yaitu 6000-10,000/kg berat badan sapi",
+						"Jika sapi sudah terkena penyakit ini, segera pisahkan sapi dengan kandang karantina",
+						"Apabila sapi mati karena terkena serangan penyakit ini, segera lakukan pembakaran"
+					]
+				},
+				{
+					"Kode_Penyakit": "P08",
+					"Nama_Penyakit": "Penyakit Mulut Dan Kuku (PMK)",
+					"Solusi": [
+						"Menjaga kebersihan kandang serta lingkungan disekitar kandang",
+						"Memberikan vaksin secara rutin. Apabila dicurigai ada sapi yang menderita PMK",
+						"Memisahkan sapi yang terindikasi penyakit dengan sapi lain, kemudian diobati dengan suplemen vitamin A, obat sulfa, dan antibiotic."
+					]
+				},
+				{
+					"Kode_Penyakit": "P09",
+					"Nama_Penyakit": "Kembung",
+					"Solusi": [
+						"Jangan biasa memberikan pakan rumput yang masih basah, terutama di pagi hari.",
+						"Kurangi prosentase pemberian leguminose hijauan. Jerami kering berikan di pagi hari sebelum memakan hijauan jenis lain.",
+						"Usahakan ternak banyak bergerak sehingga mengurangi gas pada lambung."
+					]
+				},
+				{
+					"Kode_Penyakit": "P10",
+					"Nama_Penyakit": "Surra",
+					"Solusi": [
+						"Surramin adalah obat yang  efektif dalam mengobati penyakit surra."
+					]
+				},
+				{
+					"Kode_Penyakit": "P11",
+					"Nama_Penyakit": "Kudis",
+					"Solusi": [
+						"Aliran udara dan sanitasi kandang usahakan bagus",
+						"Kandang sapi selalu dalam kondisi kering dan terjaga kebersihannya",
+						"Hewan yang terdiagnosa skabies harus dipisahkan dan dikarantina",
+						"Usahakan agar lokasi kandang selalu berjauhan dengan tempat tinggal anda untuk mencegah penularan"
+					]
+				},
+				{
+					"Kode_Penyakit": "P12",
+					"Nama_Penyakit": "Ingusan(Malignant Catrrahal Fever)",
+					"Solusi": [
+						"Pengobatan yang efektif belum ada.",
+						"Umumnya hewan yang sudah sakit tidak bisa diobati.",
+						"Usaha maksimal adalah pemberian antibiotik berspektrum luas untuk mencegah terjadinya infeksi sekunder."
+					]
+				},
+				{
+					"Kode_Penyakit": "P13",
+					"Nama_Penyakit": "Bloat",
+					"Solusi": [
+						"Bloat bisa diatasi dengan pemberian obat kembung (susfactant) dan minyak nabati yang berfungsi menghancurkan buih yang terdapat di rumen ternak sehingga memperlancar gas keluar"
+					]
+				},
+				{
+					"Kode_Penyakit": "P14",
+					"Nama_Penyakit": "IBR (Infectious Bovine Rhinotracheitis)",
+					"Solusi": [
+						"Pencegahan penyakit dapat dilakukan vaksinasi, kebersihan dan sanitasi kandang perlu dilakukan. ",
+						"Pemberian antibiotik dan vitamin dapat diberikan untuk mengurangi infeksi sekunder."
+					]
+				},
+				{
+					"Kode_Penyakit": "P15",
+					"Nama_Penyakit": "BEF (Bovine epizooric fever)",
+					"Solusi": [
+						"Pengobatan yang diberikan terdiri dari berbagai kombinasi antara antipiretik, antibiotik, antihistamin, dan vitamin. Kombinasi antipiretik, antibiotik, dan vitamin memberikan tingkat kesembuhan yang baik. Antipiretik yang biasa digunakan mengandung dypirone sebagai antiinflamasi nonsteroid (NSAID) dan lidocaine sebagai analgesik juga antispasmodik.",
+						"Dypirone bekerja dengan menghambat secara reversibel enzim siklooksigenase-1 dan 2, dan mengakibatkan penurunan produksi prekursor prostaglandin (COX-1 dan 2) yang diketahui sebagai mediator radang sehingga proses keradangan bisa dikurangi.",
+						" Sebagai analgesik dengan efek sedasi lokal, lidocaine akan mengurangi rasa sakit dengan menutup reseptor sakit pada bagian tubuh yang sakit."
+					]
+				},
+				{
+					"Kode_Penyakit": "P16",
+					"Nama_Penyakit": "Scabies",
+					"Solusi": [
+						"Pengobatan yang aman biasanya dengan pemberian minyak kelapa dicampur dengan kapur barus kemudian gosokkan pada kulit yang terkena.",
+						" Serbuk belerang, dicampur dengan kunyit dan minyak kelapa yang sudah dipanaskan, gosokkan pada kulit sapi."
+					]
+				},
+				{
+					"Kode_Penyakit": "P17",
+					"Nama_Penyakit": "Cacingan",
+					"Solusi": [
+						"Obat cacing diberikan mulai umur 3 minggu dan secara rutin tiap 6 bulan sekali.",
+						"Induk bunting tidak boleh diberi obat cacing karena menyebabkan keguguran.",
+						". Anjuran saat mengambil rumput jangan di pinggir sungai dan jangan mengambil rumput hingga ke akarnya yang baru masuk dan sakit disinfeksi dan vaksinasi deworming (6 bulan sekali).",
+						"Obat cacing yang dianjurkan adalah dengan kandungan Albendazole Obat tradisional dapat dibuat dari larutan buah pinang + air dengan perbandingan 10."
+					]
+				},
+				{
+					"Kode_Penyakit": "P18",
+					"Nama_Penyakit": "Diare",
+					"Solusi": [
+						"Memberikan cairan elektrolit. Cara pembuatan elektrolit ini sangat mudah. Cara sederhananya yaitu larutkan ¼ sendok teh garam pada air hangat ditambah dengan 1 sendok teh gula pasir. Kemudian diminumkan pada sapi dengan takaran 2 kali sehari."
+					]
+				},
+				{
+					"Kode_Penyakit": "P19",
+					"Nama_Penyakit": "Lumpy Skin Disease (LSD)",
+					"Solusi": [
+						"Hingga saat ini belum ada pengbobatan khusus terhadap LSD. Pengobatan untuk LSD bersifat symptomatik untuk mengobati gejala klinis yang muncul dan suportif untuk memperbaiki kondisi tubuh ternak terinfeksi. ",
+						"Pencegahan secara spesifik dilakukan dengan vaksinasi. Sebagian besar vaksin LSD adalah  live attenuated, namun juga tersedia dalam bentuk inaktif.",
+						" Vaksinasi untuk daerah bebas LSD seperti Indonesia tidak dilakukan.",
+						"Kewaspadaan terhadap penyakit LSD di Indonesia perlu ditingkatkan dengan memperkuat sistem surveilans deteksi dini penyakit, memperketat pemeriksaan lalu lintas hewan, dan meningkatkan kapasitas pengujian dan diagnosis penyakit LSD."
+					]
+				}
+			]
+		}
+	]
